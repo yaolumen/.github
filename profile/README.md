@@ -27,6 +27,7 @@ YaoLumen 是一个专注于**业务系统架构**与**电商运营中台**的技
 | [**pettyflow**](https://github.com/yaolumen/pettyflow) | 多站点运营管理系统 | ⚠️ 已停止 |
 | [**yaolumen-ledger**](https://github.com/yaolumen/yaolumen-ledger) | 多币种财务合规管理系统 | ⚠️ 已停止 |
 | [**yaolumen-orbit**](https://github.com/yaolumen/yaolumen-orbit) | 电商运营中台（评论 / 类目 / AI 分析） | ⚠️ 已停止 |
+| [**security-platform**](https://github.com/yaolumen/security-platform) | 综合安防平台 demo | 🧪 Demo |
 
 ---
 
@@ -51,6 +52,7 @@ YaoLumen 是一个专注于**业务系统架构**与**电商运营中台**的技
 - 💱 **多币种财务**：GBP / USD / EUR / CNY 自动汇率换算
 - 📋 **合规报表**：基于英国 Companies House 2028 改革设计的报表体系
 - 🏪 **多店管理**：WooCommerce 多店铺同步
+- 🛡️ **综合安防平台**：设备接入、告警联动、视频流集成
 
 ---
 
